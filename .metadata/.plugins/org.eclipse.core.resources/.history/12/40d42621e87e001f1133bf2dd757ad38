@@ -1,0 +1,9 @@
+package homework;
+
+public class p18
+{
+
+	System.out.println("顯示出反斜線:\\");
+	System.out.println("顯示出單引烙\'");
+	
+}
